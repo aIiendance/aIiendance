@@ -1,12 +1,18 @@
 
-  <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/c34c3f2b-80dd-4d22-845a-494efa0caa10" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/9b8566bd-f55f-4813-bf5e-bfa78ba11645" />
+  <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/13420e67-1077-4dc6-8636-0bd05139f8dc" />
+
+  
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c6801997-00b3-49c7-9cee-f09e94a9108d" />
+
+
 <a href="https://kikuslaw.straw.page/">
-  <img width="105" height="105" alt="image" src="https://github.com/user-attachments/assets/7bc75ce3-c03b-4e82-b664-cb35966d797e" />
+  <img width="105" height="105" alt="image" src="https://github.com/user-attachments/assets/9bff7396-92b5-46c3-bae6-cbdf3ccecf4a" />
 <a/> 
+
  <a href="https://aliendance.atabook.org/">
-  <img width="105" height="105" alt="image" src="https://github.com/user-attachments/assets/7e2c5d51-43c1-49ea-a44e-c7579c46e1f3" />
+  <img width="105" height="105" alt="image" src="https://github.com/user-attachments/assets/d3d978eb-4a1e-43d7-9394-8834d36c8a86" />
 <a/>
+  
 <a href="https://rentry.co/aiiendance">
 <img width="105" height="105" alt="image" src="https://github.com/user-attachments/assets/08a72404-a0f3-495d-ad91-15aaa03c5dd9" />
 <a/>
